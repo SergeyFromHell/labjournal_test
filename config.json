@@ -1,0 +1,5 @@
+{
+	"client": {
+		"path": "$protocol$//$hostname$:28080/api"
+	}
+}
